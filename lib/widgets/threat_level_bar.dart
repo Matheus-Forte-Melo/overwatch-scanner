@@ -67,7 +67,7 @@ class ThreatLevelBar extends StatelessWidget {
     if (threatLevel <= 2) return (CombineColors.green, 'NOMINAL');
     if (threatLevel <= 5) return (CombineColors.orange, 'ELEVATED');
     if (threatLevel <= 7) return (CombineColors.red, 'HIGH');
-    return (CombineColors.red, 'CONTAINMENT BREACH IMMINENT');
+    return (CombineColors.red, 'ANTICITIZEN-ONE');
   }
 
   Widget _buildBar(Color barColor) {

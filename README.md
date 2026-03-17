@@ -1,4 +1,4 @@
-# C17 Citizenship Scanner
+# C17 Citizenship Scanner - Introdução
 
 Este é um projeto de uma tela interativa inspirada no jogo "Half-Life 2", um dos meus favoritos! 
 O jogo se passa numa distopia onde um experiemento científico deu muito errado e um portal
@@ -24,3 +24,15 @@ Este app visa replicar a interface de um localizador de "Anti-cidadões" na áre
 de criar algo novo, que nunca apareceu no jogo, mas que faria sentido dado a estética dos softwares
 que vemos no titulo mais recente da série, "Half-Life: Alyx".
 
+* * * 
+
+## Features
+
+* Botão de SCAN que exibe aleatoriamente uma mensagem.
+* Barra de perigo que aumenta aleatoriamente até entrar em um estado de alerta
+* Botão de RESET para barra de perigo
+
+### Interface
+
+Simula um terminal de controle do Jogo Half-Life 2, com uma vibe tecno-brutalista, inspirando-se nos 
+softwares dos Combine que conseguimos ver na franquia Half-Life. A interface é a de um Scanner.
