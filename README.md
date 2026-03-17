@@ -17,6 +17,8 @@ Este app visa replicar a interface de um localizador de "Anticidadãos" na área
 * Botão de SCAN que exibe aleatoriamente uma mensagem.
 * Barra de perigo que aumenta aleatoriamente até entrar em um estado de alerta
 * Botão de RESET para barra de perigo
+* Widgetzinho que mostra algumas falas do Wallace Breen durante o jogo.
 
 ### Interface
 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1331b5fc-fcce-4c32-9cf6-922eb28ad090" />
